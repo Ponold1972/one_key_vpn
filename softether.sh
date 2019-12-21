@@ -7,7 +7,7 @@ make << EOF
 1
 1
 EOF
-touch vpn_server.config <<EOF
+cat > vpn_server.config <<EOF
 # Software Configuration File
 # ---------------------------
 # 
