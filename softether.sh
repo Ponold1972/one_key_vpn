@@ -1,4 +1,5 @@
 #!/bin/bash
+yum install gcc wget or apt install gcc wget
 wget https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.31-9727-beta/softether-vpnserver-v4.31-9727-beta-2019.11.18-linux-x64-64bit.tar.gz
 tar zxvf softether-vpnserver-v4.31-9727-beta-2019.11.18-linux-x64-64bit.tar.gz
 cd vpnserver
